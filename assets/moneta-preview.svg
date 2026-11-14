@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="t d">
+  <title id="t">Moneta, interface concept</title>
+  <desc id="d">Concept preview of Moneta, a native macOS personal finance application in development, showing a dashboard with net worth, financial health, budgets and goals. Source code is private.</desc>
+  <defs><radialGradient id="gT" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#1FA89C" stop-opacity=".40"/><stop offset="1" stop-color="#1FA89C" stop-opacity="0"/></radialGradient>
+<radialGradient id="gB" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#C29B5B" stop-opacity=".30"/><stop offset="1" stop-color="#C29B5B" stop-opacity="0"/></radialGradient>
+<linearGradient id="bgc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D171B"/><stop offset="1" stop-color="#070C0E"/></linearGradient>
+<linearGradient id="side" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0F5660"/><stop offset="1" stop-color="#0A3A42"/></linearGradient>
+<linearGradient id="nw" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#136773"/><stop offset="1" stop-color="#0A3A42"/></linearGradient>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#D9B574" stop-opacity=".38"/><stop offset="1" stop-color="#D9B574" stop-opacity="0"/></linearGradient>
+<linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D9B574"/><stop offset="1" stop-color="#A9783A"/></linearGradient>
+<filter id="drop" x="-10%" y="-10%" width="120%" height="135%"><feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#000" flood-opacity=".55"/></filter>
+<clipPath id="win"><rect x="70" y="30" width="760" height="424" rx="14"/></clipPath>
+<clipPath id="frame"><rect width="900" height="520" rx="20"/></clipPath></defs>
+  <style>.nav{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:13px;font-weight:500;fill:#BBD2D3} .nav.on{fill:#F5F0E6;font-weight:600}.h1{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:22px;font-weight:700;letter-spacing:-.3px;fill:#23282C} .sub{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:12.5px;fill:#7B7F82}.cl{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:12px;font-weight:500;fill:#B9D3D3} .ct{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:650;fill:#23282C} .bl{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:11.5px;fill:#5F6569}.dots{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:30px;font-weight:700;letter-spacing:5px;fill:#F5F0E6} .brand{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:700;fill:#F5F0E6}.cap{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:13px;fill:#93A4AA} .pill{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:11.5px;font-weight:600}.fill{transform-box:fill-box;transform-origin:left center;animation:grow 1.1s cubic-bezier(.2,.7,.2,1) both}@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}.draw{stroke-dasharray:1;animation:draw 1.8s ease-out .3s both}@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}.areaIn{animation:fadein 1.2s ease-out 1.1s both}@keyframes fadein{from{opacity:0}to{opacity:1}}.arc{animation:arc 1.6s cubic-bezier(.2,.7,.2,1) .5s both}@keyframes arc{from{stroke-dasharray:0 100}to{stroke-dasharray:72 100}}.glowA{animation:fl 18s ease-in-out infinite}@keyframes fl{0%,100%{transform:translate(0,0)}50%{transform:translate(26px,-14px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none !important}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="900" height="520" fill="url(#bgc)"/>
+    <g class="glowA"><circle cx="190" cy="120" r="260" fill="url(#gT)"/></g>
+    <circle cx="790" cy="470" r="240" fill="url(#gB)"/>
+    <g filter="url(#drop)"><rect x="70" y="30" width="760" height="424" rx="14" fill="#F5F0E6"/></g>
+    <g clip-path="url(#win)">
+      <rect x="70" y="30" width="760" height="424" fill="#F5F0E6"/>
+      <rect x="70" y="30" width="760" height="38" fill="#EEE7D8"/><path d="M70 68.5h760" stroke="#DDD3BF"/>
+      <circle cx="92" cy="49" r="5.5" fill="#FF5F57"/><circle cx="111" cy="49" r="5.5" fill="#FEBC2E"/><circle cx="130" cy="49" r="5.5" fill="#28C840"/>
+      <text x="450" y="53.5" text-anchor="middle" style="font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:12.5px;font-weight:600;fill:#5B6368">Moneta</text>
+      <rect x="70" y="69" width="162" height="385" fill="url(#side)"/>
+      <circle cx="96" cy="100" r="9" fill="#C29B5B"/><path d="M91.5 104.5v-8l4.5 5 4.5-5v8" fill="none" stroke="#0A3A42" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+      <text class="brand" x="112" y="105">Moneta</text>
+      <rect x="80" y="132" width="142" height="26" rx="8" fill="#C29B5B" fill-opacity=".24"/><rect x="92" y="141" width="8" height="8" rx="2.5" fill="#D9B574"/><text class="nav on" x="112" y="150">Dashboard</text><rect x="92" y="171" width="8" height="8" rx="2.5" fill="#5E8E92" fill-opacity=".7"/><text class="nav" x="112" y="180">Accounts</text><rect x="92" y="201" width="8" height="8" rx="2.5" fill="#5E8E92" fill-opacity=".7"/><text class="nav" x="112" y="210">Transactions</text><rect x="92" y="231" width="8" height="8" rx="2.5" fill="#5E8E92" fill-opacity=".7"/><text class="nav" x="112" y="240">Categories</text><rect x="92" y="261" width="8" height="8" rx="2.5" fill="#5E8E92" fill-opacity=".7"/><text class="nav" x="112" y="270">Budgets</text><rect x="92" y="291" width="8" height="8" rx="2.5" fill="#5E8E92" fill-opacity=".7"/><text class="nav" x="112" y="300">Goals</text><rect x="92" y="321" width="8" height="8" rx="2.5" fill="#5E8E92" fill-opacity=".7"/><text class="nav" x="112" y="330">Recurring</text><rect x="92" y="351" width="8" height="8" rx="2.5" fill="#5E8E92" fill-opacity=".7"/><text class="nav" x="112" y="360">Analytics</text><rect x="92" y="381" width="8" height="8" rx="2.5" fill="#5E8E92" fill-opacity=".7"/><text class="nav" x="112" y="390">Reports</text>
+      <text class="h1" x="256" y="108">Dashboard</text>
+      <text class="sub" x="256" y="127">Your financial overview</text>
+      <rect x="256" y="146" width="300" height="124" rx="13" fill="url(#nw)"/>
+      <text class="cl" x="276" y="172">Net worth</text>
+      <text class="dots" x="274" y="208">••••••</text>
+      <path class="areaIn" d="M276 258C298 256 312 250 334 251S368 242 390 244S424 234 446 232S486 240 508 228S530 218 538 214V270H276Z" fill="url(#area)"/>
+      <path class="draw" pathLength="1" d="M276 258C298 256 312 250 334 251S368 242 390 244S424 234 446 232S486 240 508 228S530 218 538 214" fill="none" stroke="#D9B574" stroke-width="2.4" stroke-linecap="round"/>
+      <rect x="572" y="146" width="234" height="124" rx="13" fill="#FBF8F1" stroke="#E4DBC8"/>
+      <text class="ct" x="592" y="172">Financial health</text>
+      <circle cx="628" cy="226" r="30" fill="none" stroke="#E9E1D0" stroke-width="9"/>
+      <circle class="arc" pathLength="100" cx="628" cy="226" r="30" fill="none" stroke="url(#ring)" stroke-width="9" stroke-linecap="round" stroke-dasharray="72 100" transform="rotate(-90 628 226)"/>
+      <text class="bl" x="628" y="230" text-anchor="middle">Score</text>
+      <circle cx="684" cy="206" r="3" fill="#3E9E8E"/><text class="bl" x="696" y="210">Savings rate</text><circle cx="684" cy="226" r="3" fill="#3E9E8E"/><text class="bl" x="696" y="230">Debt</text><circle cx="684" cy="246" r="3" fill="#C29B5B"/><text class="bl" x="696" y="250">Emergency fund</text>
+      <rect x="256" y="288" width="262" height="156" rx="13" fill="#FBF8F1" stroke="#E4DBC8"/>
+      <text class="ct" x="276" y="314">Budgets</text>
+      <text class="bl" x="276" y="340">Housing</text><rect x="276" y="348" width="222" height="7" rx="3.5" fill="#E7DFCE"/><rect class="fill" style="animation-delay:0.6s" x="276" y="348" width="173.2" height="7" rx="3.5" fill="#0F5660"/><text class="bl" x="276" y="376">Groceries</text><rect x="276" y="384" width="222" height="7" rx="3.5" fill="#E7DFCE"/><rect class="fill" style="animation-delay:0.75s" x="276" y="384" width="115.4" height="7" rx="3.5" fill="#0F5660"/><text class="bl" x="276" y="412">Transport</text><rect x="276" y="420" width="222" height="7" rx="3.5" fill="#E7DFCE"/><rect class="fill" style="animation-delay:0.9s" x="276" y="420" width="75.5" height="7" rx="3.5" fill="#0F5660"/>
+      <rect x="534" y="288" width="272" height="156" rx="13" fill="#FBF8F1" stroke="#E4DBC8"/>
+      <text class="ct" x="554" y="314">Goals</text>
+      <text class="bl" x="554" y="340">Emergency fund</text><rect x="554" y="348" width="232" height="7" rx="3.5" fill="#E7DFCE"/><rect class="fill" style="animation-delay:0.7s" x="554" y="348" width="148.5" height="7" rx="3.5" fill="#C29B5B"/><text class="bl" x="554" y="376">Travel</text><rect x="554" y="384" width="232" height="7" rx="3.5" fill="#E7DFCE"/><rect class="fill" style="animation-delay:0.85s" x="554" y="384" width="88.2" height="7" rx="3.5" fill="#C29B5B"/><text class="bl" x="554" y="412">New laptop</text><rect x="554" y="420" width="232" height="7" rx="3.5" fill="#E7DFCE"/><rect class="fill" style="animation-delay:1.0s" x="554" y="420" width="190.2" height="7" rx="3.5" fill="#C29B5B"/>
+    </g>
+    <text class="cap" x="70" y="494">Interface concept for a native macOS personal finance app.</text>
+    <rect x="598" y="479" width="102" height="24" rx="12" fill="none" stroke="#2BB3A8" stroke-opacity=".7"/>
+    <text class="pill" x="649" y="495" text-anchor="middle" fill="#3FC1B5">In development</text>
+    <rect x="708" y="479" width="122" height="24" rx="12" fill="none" stroke="#C29B5B" stroke-opacity=".75"/>
+    <text class="pill" x="769" y="495" text-anchor="middle" fill="#D9B574">Private repository</text>
+  </g>
+  <rect x=".5" y=".5" width="899" height="519" rx="19.5" fill="none" stroke="#1F3036"/>
+</svg>

@@ -1,16 +1,18 @@
-<svg width="1200" height="100" viewBox="0 0 1200 100"
-xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="line">
-<stop stop-color="#65C8C0" stop-opacity="0"/>
-<stop offset=".5" stop-color="#65C8C0"/>
-<stop offset="1" stop-color="#65C8C0" stop-opacity="0"/>
-</linearGradient>
-</defs>
-<path d="M0 25H1200" stroke="url(#line)" stroke-width="2"/>
-<text x="600" y="65" text-anchor="middle"
-fill="#65C8C0" font-family="Arial"
-font-size="14" letter-spacing="5">
-ALWAYS BUILDING · ALWAYS EVOLVING
-</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-labelledby="t d">
+  <title id="t">Footer</title>
+  <desc id="d">Footer with the name Sadra Hosseini over slowly moving teal and bronze waves.</desc>
+  <defs><clipPath id="frame"><rect width="900" height="120" rx="18"/></clipPath>
+<linearGradient id="w1" x1="0" x2="1"><stop offset="0" stop-color="#2BB3A8" stop-opacity=".30"/><stop offset="1" stop-color="#2BB3A8" stop-opacity=".06"/></linearGradient>
+<linearGradient id="w2" x1="0" x2="1"><stop offset="0" stop-color="#C29B5B" stop-opacity=".05"/><stop offset="1" stop-color="#C29B5B" stop-opacity=".26"/></linearGradient></defs>
+  <style>.n{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:16px;font-weight:650;letter-spacing:-.1px;fill:#E9F1F2} .t{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:13px;fill:#93A4AA}.wa{animation:wv 22s linear infinite}.wb{animation:wv 34s linear infinite reverse}@keyframes wv{to{transform:translateX(-900px)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none !important}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="900" height="120" fill="#0C1417"/>
+    <path class="wb" d="M0 90Q112 70 225 90T450 90T675 90T900 90T1125 90T1350 90T1575 90T1800 90V120H0Z" fill="url(#w2)"/>
+    <path class="wa" d="M0 78Q112 52 225 78T450 78T675 78T900 78T1125 78T1350 78T1575 78T1800 78V120H0Z" fill="url(#w1)"/>
+    <text class="n" x="450" y="44" text-anchor="middle">Sadra Hosseini</text>
+    <text class="t" x="450" y="66" text-anchor="middle">Apple ecosystem, backend engineering and product development.</text>
+  </g>
+  <rect x=".5" y=".5" width="899" height="119" rx="17.5" fill="none" stroke="#1F3036"/>
 </svg>

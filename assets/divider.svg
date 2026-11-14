@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28" role="img" aria-labelledby="t d">
+  <title id="t">Divider</title>
+  <desc id="d">Decorative divider with a slow light sweep.</desc>
+  <defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#2BB3A8" stop-opacity="0"/><stop offset="1" stop-color="#2BB3A8" stop-opacity=".55"/></linearGradient>
+<linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#C29B5B" stop-opacity=".55"/><stop offset="1" stop-color="#C29B5B" stop-opacity="0"/></linearGradient>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="m" maskUnits="userSpaceOnUse" x="0" y="0" width="900" height="28"><rect x="80" y="13" width="352" height="2" fill="#fff"/><rect x="468" y="13" width="352" height="2" fill="#fff"/></mask></defs>
+  <style>.glint{animation:glint 7s ease-in-out infinite}.dia{transform-origin:450px 14px;animation:dia 7s ease-in-out infinite}@keyframes glint{0%{transform:translateX(0)}60%,100%{transform:translateX(820px)}}@keyframes dia{0%,100%{transform:rotate(45deg) scale(1)}50%{transform:rotate(45deg) scale(1.25)}}
+    @media (prefers-reduced-motion:reduce){*{animation:none !important}}
+  </style>
+  <rect x="80" y="13" width="352" height="2" rx="1" fill="url(#l)"/>
+  <rect x="468" y="13" width="352" height="2" rx="1" fill="url(#r)"/>
+  <g mask="url(#m)"><rect class="glint" x="20" y="11" width="110" height="6" fill="url(#g)"/></g>
+  <rect class="dia" x="445" y="9" width="10" height="10" rx="1.5" transform="rotate(45 450 14)" fill="#C29B5B"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="t d">
+  <title id="t">Currently exploring</title>
+  <desc id="d">SwiftUI on macOS, backend architecture, and Telegram Mini Apps, shown beside a slow radar sweep.</desc>
+  <defs><linearGradient id="wedge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3FC1B5" stop-opacity="0"/><stop offset="1" stop-color="#3FC1B5" stop-opacity=".42"/></linearGradient>
+<clipPath id="frame"><rect width="900" height="210" rx="16"/></clipPath></defs>
+  <style>.ti{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:17px;font-weight:650;letter-spacing:-.15px;fill:#E9F1F2} .ds{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:13.5px;fill:#93A4AA}.sweep{transform-origin:770px 105px;animation:spin 9s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}.blip{animation:blip 9s ease-out infinite}.b2{animation-delay:3s}.b3{animation-delay:6s}@keyframes blip{0%{opacity:1}35%,100%{opacity:.12}}
+    @media (prefers-reduced-motion:reduce){*{animation:none !important}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="900" height="210" fill="#0C1417"/>
+    <circle cx="34" cy="47" r="4" fill="#D9B574"/><text class="ti" x="52" y="52">SwiftUI on macOS</text><text class="ds" x="52" y="74">Building the interface and navigation of Moneta.</text>
+  <circle cx="34" cy="99" r="4" fill="#3FC1B5"/><text class="ti" x="52" y="104">Backend architecture</text><text class="ds" x="52" y="126">API design, authentication and data modeling with Prisma and PostgreSQL.</text>
+  <circle cx="34" cy="151" r="4" fill="#3FC1B5"/><text class="ti" x="52" y="156">Telegram Mini Apps</text><text class="ds" x="52" y="178">Interactive experiences that live inside Telegram, like VEXO.</text>
+  
+    <g stroke="#2BB3A8" stroke-opacity=".28" fill="none">
+      <circle cx="770" cy="105" r="34"/><circle cx="770" cy="105" r="68"/><circle cx="770" cy="105" r="100"/>
+      <path d="M670 105h200M770 5v200" stroke-opacity=".16"/>
+    </g>
+    <g class="sweep"><path d="M770 105L870 105A100 100 0 0 0 840.7 34.3Z" fill="url(#wedge)"/></g>
+    <circle class="blip" cx="822" cy="71" r="4" fill="#D9B574"/>
+    <circle class="blip b2" cx="724" cy="49" r="4" fill="#3FC1B5"/>
+    <circle class="blip b3" cx="750" cy="167" r="4" fill="#D9B574"/>
+    <circle cx="770" cy="105" r="3.5" fill="#3FC1B5"/>
+  </g>
+  <rect x=".5" y=".5" width="899" height="209" rx="15.5" fill="none" stroke="#1F3036"/>
+</svg>

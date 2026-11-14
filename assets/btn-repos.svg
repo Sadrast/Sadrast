@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="56" viewBox="0 0 212 56" role="img" aria-label="Repositories, Browse public work">
+  <title>Repositories</title>
+  <style>
+    .a{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:15px;font-weight:650;fill:#E9F1F2}
+    .b{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:12px;fill:#93A4AA}
+  </style>
+  <rect x=".5" y=".5" width="211" height="55" rx="16" fill="#0C1417" stroke="#1F3036"/>
+  <rect x="12" y="12" width="32" height="32" rx="10" fill="#101A1E" stroke="#27424A"/>
+  <g transform="translate(12 12)"><path d="M9 7h13a1.5 1.5 0 0 1 1.5 1.5v15H11a2 2 0 0 0-2 2V7Z" fill="none" stroke="#D9B574" stroke-width="1.8" stroke-linejoin="round"/><path d="M11 21.5h12.5" stroke="#D9B574" stroke-width="1.8"/></g>
+  <text class="a" x="56" y="26">Repositories</text>
+  <text class="b" x="56" y="42">Browse public work</text>
+</svg>

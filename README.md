@@ -1,163 +1,85 @@
+<!-- sadra-profile:managed -->
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Sadra Hosseini - Software Developer"/>
+<p><a href="https://github.com/Sadrast"><img src="assets/hero.svg" alt="Sadra Hosseini, Software Developer. Apple ecosystem and backend engineering." width="100%"></a></p>
+
+<p><img src="assets/typing.svg" alt="Software Developer, Backend Engineer, Apple Ecosystem Developer, Product Builder" width="560"></p>
+
+<p><b>Computer Engineering student and software developer</b> building modern applications,<br>backend systems and premium user experiences, with a focus on the Apple ecosystem.</p>
+
+<p><img src="assets/divider.svg" alt="" width="100%"></p>
+
+</div>
+
+<p><img src="assets/section-about.svg" alt="About" width="100%"></p>
+
+<p><img src="assets/about-card.svg" alt="Swift code card: Sadra Hosseini, Software Developer, studying Computer Engineering, focused on Apple Ecosystem, Backend Engineering and Product Development, currently building Moneta." width="100%"></p>
+
+I'm Sadra, a Computer Engineering student who likes building complete products: thoughtful interfaces, solid APIs and the details in between. Right now I'm focused on **Moneta**, a native macOS personal finance app, and on growing my backend and product skills alongside it.
 
 <br>
 
-<a href="https://github.com/Sadrast">
-<img src="https://komarev.com/ghpvc/?username=Sadrast&style=flat-square&color=1F6F78&label=PROFILE+VIEWS" />
-</a>
+<p><img src="assets/section-focus.svg" alt="Main focus" width="100%"></p>
 
-<br><br>
-
-<a href="https://github.com/Sadrast">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=65C8C0&center=true&vCenter=true&width=650&lines=Software+Developer;Apple+Ecosystem+Developer;Backend+Engineer;Independent+Product+Builder" />
-</a>
+<p><img src="assets/focus.svg" alt="Main focus areas: Apple ecosystem with Swift and SwiftUI; backend engineering with Node.js, TypeScript and PostgreSQL; product development from idea to polished interface." width="100%"></p>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sadrast-181717?style=for-the-badge&logo=github)](https://github.com/Sadrast)
-[![Focus](https://img.shields.io/badge/FOCUS-Software%20Engineering-1F6F78?style=for-the-badge)](https://github.com/Sadrast)
+<p><img src="assets/section-stack.svg" alt="Technology stack" width="100%"></p>
 
-</div>
+<p><img src="assets/stack.svg" alt="Technology stack. Apple platforms: Swift, SwiftUI, Xcode, macOS and iOS. Backend: Node.js, Express, TypeScript, PostgreSQL, Prisma, Python, JWT. Frontend: React, Vue.js, JavaScript, HTML5, CSS3. Mobile and bots: Flutter, Dart, Telegram, grammY. Tools: Git, GitHub, VS Code." width="100%"></p>
 
----
+<br>
 
-## About Me
+<p><img src="assets/section-projects.svg" alt="Featured projects" width="100%"></p>
 
-I'm Sadra, a Computer Engineering student and software developer interested in engineering useful products and building reliable software.
+<p><img src="assets/moneta-preview.svg" alt="Interface concept of Moneta, a native macOS personal finance app in development: dashboard with net worth, financial health, budgets and goals." width="100%"></p>
 
-My interests span native Apple applications, backend architecture, modern web technologies, databases, and product development.
+**Moneta** is a native macOS personal finance app that I'm designing and building end to end. Its visual identity is calm and warm: off-white surfaces, deep petrol, charcoal type and bronze details. It is under development and the repository is private.
 
-I enjoy taking ideas from concept to implementation, with particular attention to clean architecture, functionality, and user experience.
+Planned capabilities: `Dashboard` `Net worth` `Accounts` `Transactions` `Categories` `Budgets` `Goals` `Recurring transactions` `Analytics` `Reports and export` `Financial health score` `Insights` `Backup and restore`
 
-### Current Focus
+**More work**
 
-- Native application development for the Apple ecosystem
-- Backend engineering and REST API architecture
-- Database design and application architecture
-- Building independent software products
-- Modern application interfaces and user experience
+<p><img src="assets/projects.svg" alt="More projects: Aramiszi, a dental marketplace. EVTOP, a real estate platform. VEXO, a Tic-Tac-Toe Telegram Mini App. Automation bots for Telegram and Bale." width="100%"></p>
 
----
+<br>
 
-## Technology Stack
+<p><img src="assets/section-stats.svg" alt="GitHub statistics" width="100%"></p>
 
-### Apple Development
+<p><img src="assets/stats.svg" alt="GitHub statistics: public repositories, stars, followers, recent activity and most-used languages." width="100%"></p>
 
-<div>
-<img src="https://skillicons.dev/icons?i=swift" height="48" alt="Swift"/>
-</div>
+<br>
 
-Swift · SwiftUI · macOS · iOS
+<p><img src="assets/section-activity.svg" alt="Contribution activity" width="100%"></p>
 
-### Backend & Database
+<p><img src="assets/activity.svg" alt="Contribution graph for the last 12 months with current and longest streaks." width="100%"></p>
 
-<div>
-<img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,python,postgres,prisma" height="48" alt="Backend technologies"/>
-</div>
+<p><sub>These cards are generated from the GitHub API by a scheduled GitHub Actions workflow in this repository. They only reflect public activity; private work stays private.</sub></p>
 
-Node.js · Express · JavaScript · TypeScript · Python · PostgreSQL · Prisma · SQL · REST APIs · JWT
+<br>
 
-### Frontend Development
+<p><img src="assets/section-exploring.svg" alt="Currently exploring" width="100%"></p>
 
-<div>
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,js,ts" height="48" alt="Frontend technologies"/>
-</div>
+<p><img src="assets/exploring.svg" alt="Currently exploring: SwiftUI on macOS, backend architecture, and Telegram Mini Apps." width="100%"></p>
 
-React · Vue.js · HTML · CSS · JavaScript · TypeScript
+<br>
 
-### Mobile Development
-
-<div>
-<img src="https://skillicons.dev/icons?i=flutter,dart" height="48" alt="Mobile technologies"/>
-</div>
-
-Flutter · Dart · Cross-platform Development
-
-### Tools & Workflow
-
-<div>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="48" alt="Development tools"/>
-</div>
-
-Git · GitHub · VS Code · Figma
-
----
-
-## Selected Projects
-
-### Moneta — Personal Finance for macOS
-
-A premium personal finance application focused on helping users understand and manage their financial lives.
-
-**Focus areas:**
-- Financial dashboards and net worth
-- Accounts and transaction management
-- Budgeting and financial goals
-- Analytics and insights
-- Reports and data management
-
-`Private Project` · `Under Development`
-
-### Aramiszi — Dental Marketplace
-
-A marketplace project focused on the dental industry.
-
-### EVTOP — Real Estate Platform
-
-A real estate platform project.
-
-### VEXO — Telegram Mini App
-
-A Tic-Tac-Toe game built for the Telegram Mini App ecosystem.
-
----
-
-## GitHub Analytics
+<p><img src="assets/section-contact.svg" alt="Contact" width="100%"></p>
 
 <div align="center">
 
-<a href="https://github.com/Sadrast">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sadrast&show_icons=true&hide_border=true&bg_color=0D1719&title_color=65C8C0&icon_color=B69A62&text_color=C5D3D0&rank_icon=github" />
-</a>
+Follow along on GitHub, or get in touch through the links below.
 
-<a href="https://github.com/Sadrast">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadrast&layout=compact&hide_border=true&bg_color=0D1719&title_color=65C8C0&text_color=C5D3D0" />
-</a>
+<p>
+<a href="https://github.com/Sadrast"><img src="assets/btn-github.svg" alt="GitHub profile, @Sadrast" height="56"></a>
+<a href="https://github.com/Sadrast?tab=repositories"><img src="assets/btn-repos.svg" alt="Browse public repositories" height="56"></a>
+</p>
 
-<br><br>
+<br>
 
-<img src="https://streak-stats.demolab.com?user=Sadrast&theme=dark&hide_border=true&background=0D1719&ring=65C8C0&fire=B69A62&currStreakLabel=65C8C0" />
+<p><img src="assets/footer.svg" alt="Sadra Hosseini. Apple ecosystem, backend engineering and product development." width="100%"></p>
 
-</div>
-
----
-
-## Currently Exploring
-
-- Native Apple development
-- Software architecture
-- Backend system design
-- Financial application engineering
-- Building and shipping independent products
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:sadra.h725@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact%20Me-1F6F78?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sadrast">
-<img src="https://img.shields.io/badge/GITHUB-Sadrast-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="assets/footer.svg" width="100%" alt="Always building. Always evolving."/>
+<p><sub>Every visual here is hand-built SVG. No third-party widgets.</sub></p>
 
 </div>

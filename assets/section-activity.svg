@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="52" viewBox="0 0 900 52" role="img" aria-labelledby="t d">
+  <title id="t">Contribution activity</title>
+  <desc id="d">Section heading: Contribution activity.</desc>
+  <defs><linearGradient id="hair" x1="0" x2="1"><stop offset="0" stop-color="#2BB3A8" stop-opacity=".6"/><stop offset="1" stop-color="#2BB3A8" stop-opacity="0"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#D9B574"/><stop offset="1" stop-color="#C29B5B"/></linearGradient></defs>
+  <style>.h{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:21px;font-weight:650;letter-spacing:-.2px;fill:#E9F1F2} .s{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:400;fill:#5E7077}
+    @media (prefers-reduced-motion:reduce){*{animation:none !important}}
+  </style>
+  <rect x=".5" y=".5" width="899" height="51" rx="14" fill="#0C1417" stroke="#1F3036"/>
+  <rect x="22" y="15" width="4" height="22" rx="2" fill="url(#bar)"/>
+  <text class="h" x="42" y="33">Contribution activity</text>
+  <rect x="330" y="25.5" width="320" height="1" fill="url(#hair)"/>
+  <text class="s" x="878" y="31" text-anchor="end">Last 12 months</text>
+</svg>

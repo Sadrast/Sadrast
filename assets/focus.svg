@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="214" viewBox="0 0 900 214" role="img" aria-labelledby="t d">
+  <title id="t">Main focus</title>
+  <desc id="d">Three focus areas: Apple ecosystem, backend engineering and product development.</desc>
+  <defs><linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12202A" stop-opacity="0"/><stop offset="0" stop-color="#101A1E"/><stop offset="1" stop-color="#0C1417"/></linearGradient><linearGradient id="top" x1="0" x2="1"><stop offset="0" stop-color="#2BB3A8"/><stop offset="1" stop-color="#C29B5B"/></linearGradient></defs>
+  <style>.ti{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:18px;font-weight:650;letter-spacing:-.15px;fill:#E9F1F2} .tx{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Inter','Segoe UI','Helvetica Neue',Arial,sans-serif;font-size:14px;fill:#93A4AA}.led{animation:led 3.2s ease-in-out infinite}.l2{animation-delay:.5s}.l3{animation-delay:1s}@keyframes led{0%,100%{opacity:1}50%{opacity:.25}}
+    @media (prefers-reduced-motion:reduce){*{animation:none !important}}
+  </style>
+  <g>
+    <rect x="0.5" y=".5" width="284" height="213" rx="16" fill="url(#cg)" stroke="#1F3036"/>
+    <rect x="28" y="0" width="48" height="2.5" rx="1.25" fill="url(#top)"/>
+    <g transform="translate(28 30)"><rect x="2" y="4" width="30" height="20" rx="3.5" fill="none" stroke="#3FC1B5" stroke-width="1.8"/><path d="M-1 28h36" stroke="#3FC1B5" stroke-width="1.8" stroke-linecap="round"/><rect x="26" y="12" width="14" height="22" rx="3.5" fill="#0C1417" stroke="#D9B574" stroke-width="1.8"/></g>
+    <text class="ti" x="28" y="108">Apple ecosystem</text>
+    <text class="tx" x="28" y="132">Native macOS and iOS apps built</text><text class="tx" x="28" y="153">with Swift and SwiftUI, with a</text><text class="tx" x="28" y="174">focus on clarity and polish.</text>
+  </g>
+  <g>
+    <rect x="308.5" y=".5" width="284" height="213" rx="16" fill="url(#cg)" stroke="#1F3036"/>
+    <rect x="336" y="0" width="48" height="2.5" rx="1.25" fill="url(#top)"/>
+    <g transform="translate(336 30)"><rect x="2" y="2" width="36" height="10" rx="3" fill="none" stroke="#3FC1B5" stroke-width="1.8"/><rect x="2" y="15" width="36" height="10" rx="3" fill="none" stroke="#3FC1B5" stroke-width="1.8"/><rect x="2" y="28" width="36" height="10" rx="3" fill="none" stroke="#3FC1B5" stroke-width="1.8"/><circle class="led l1" cx="9" cy="7" r="1.8" fill="#D9B574"/><circle class="led l2" cx="9" cy="20" r="1.8" fill="#D9B574"/><circle class="led l3" cx="9" cy="33" r="1.8" fill="#D9B574"/></g>
+    <text class="ti" x="336" y="108">Backend engineering</text>
+    <text class="tx" x="336" y="132">REST APIs, authentication and</text><text class="tx" x="336" y="153">data layers with Node.js,</text><text class="tx" x="336" y="174">TypeScript and PostgreSQL.</text>
+  </g>
+  <g>
+    <rect x="616.5" y=".5" width="284" height="213" rx="16" fill="url(#cg)" stroke="#1F3036"/>
+    <rect x="644" y="0" width="48" height="2.5" rx="1.25" fill="url(#top)"/>
+    <g transform="translate(644 30)"><path d="M20 2 36 11v18L20 38 4 29V11Z" fill="none" stroke="#3FC1B5" stroke-width="1.8" stroke-linejoin="round"/><path d="M4 11l16 9 16-9M20 20v18" fill="none" stroke="#D9B574" stroke-width="1.8" stroke-linejoin="round"/></g>
+    <text class="ti" x="644" y="108">Product development</text>
+    <text class="tx" x="644" y="132">Shaping ideas into real products,</text><text class="tx" x="644" y="153">from a first sketch to a polished,</text><text class="tx" x="644" y="174">working interface.</text>
+  </g>
+
+</svg>
